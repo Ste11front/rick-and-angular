@@ -1,0 +1,6 @@
+https://angular.io/guide/lazy-loading-ngmodules
+
+Implementare una navigazione continua (tra episodi, location, personaggi)
+
+https://gutendex.com/books/ fare lo stesso per questa API (Visualizzare le card del libro, col dettaglio facoltativo)
+Facoltativo: sito ha una search per parola chiave (una stringa)
